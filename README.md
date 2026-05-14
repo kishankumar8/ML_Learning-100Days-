@@ -1,1 +1,1 @@
-this repo have all thing related to machine 
+this repo have all thing related to machine learning
