@@ -1,1 +1,1 @@
--> This repositoryhave all thing related to machine learning.
+-> This repository have all thing related to machine learning.
