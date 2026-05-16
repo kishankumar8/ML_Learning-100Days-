@@ -1,1 +1,1 @@
-->  This repository have all  important things related to machine learning teach by nitish.
+->  This repository have all  important things related to machine learning teach by **nitish singh**.
